@@ -72,9 +72,11 @@ These are tools that I enjoy using in my free time for personal projects and hob
   <img width="12" />
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/AsepriteSurIcon.png" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/GitFlick.png" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/favicon.png" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/tiled-icon-2029500242.png" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/GitFlick.png" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/image_processing20210616-14620-182gyed.png" height="40" alt="github logo"  />
 </div>
