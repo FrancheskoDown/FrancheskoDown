@@ -58,6 +58,7 @@ Hello! I'm a professional .NET/Unity developer with a strong background in vario
  - Test Framework 
  - NewInputSystem 
  - Cinemachine
+ - URP
  - TextMesh Pro  
  - UniRX
    
