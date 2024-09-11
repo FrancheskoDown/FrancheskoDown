@@ -26,6 +26,8 @@ Hello! I'm a professional .NET/Unity developer with a strong background in vario
   <img width="12" />
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/b7674388-9e9a-4478-ae0e-8200e377a390.png" height="40" alt="jira logo"  />
   <img width="12" />
+  <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/640px-RenderDoc_logo.svg.png" height="40" alt="jira logo"  />
+  <img width="12" />
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/git-13.png" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/image_processing20220801-17461-14k82x3.png" height="40" alt="jira logo"  />
@@ -50,7 +52,8 @@ Hello! I'm a professional .NET/Unity developer with a strong background in vario
  - A* Pathfinding Project Pro 
  - LINQ
  - HLSL
- - ShaderGraph 
+ - ShaderGraph
+ - Unity Profiler
  - Test Framework 
  - NewInputSystem 
  - Cinemachine
