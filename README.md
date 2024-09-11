@@ -53,6 +53,7 @@ Hello! I'm a professional .NET/Unity developer with a strong background in vario
  - LINQ
  - HLSL
  - ShaderGraph
+ - Addressable
  - Unity Profiler
  - Test Framework 
  - NewInputSystem 
