@@ -33,7 +33,7 @@ Hello! I'm a professional .NET/Unity developer with a strong background in vario
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/JSON_vector_logo.svg.png" height="40" alt="jira logo"  />
 </div>
 
-⚙️ Other Techs: 
+## ⚙️ Other Techs: 
 
  - UniTask 
  - Observable Collections
