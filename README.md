@@ -46,5 +46,3 @@ Hello! I'm a professional .NET/Unity developer with a strong background in vario
  - Cinemachine
  - TextMesh Pro  
  - UniRX
-
-Thank you for visiting my GitHub profile. I’m always open to discussing new projects and opportunities!
