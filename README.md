@@ -55,6 +55,7 @@ Hello! I'm a professional .NET/Unity developer with a strong background in vario
  - ShaderGraph
  - Addressable
  - Unity Profiler
+ - Memory Profiler
  - Test Framework 
  - NewInputSystem 
  - Cinemachine
