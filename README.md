@@ -58,6 +58,7 @@ Hello! I'm a professional .NET/Unity developer with a strong background in vario
  - UniRX
    
 ## ❤️ Tools For Soul
+These are tools that I enjoy using in my free time for personal projects and hobbie
 <div align="left">
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/0_-P4Uxwbe26G850a_.png" height="40" alt="unity logo"  />
   <img width="12" />
