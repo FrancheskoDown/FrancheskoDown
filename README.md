@@ -1,6 +1,4 @@
-# Welcome to My GitHub Profile
-
-## About Me
+# About Me
 
 Hello! I'm a professional .NET/Unity developer with a strong background in various technologies and tools. I specialize in creating efficient and scalable solutions using Unity and .NET technologies. My experience spans across different areas of game development, from graphics programming to system architecture.
 
