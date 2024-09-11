@@ -59,9 +59,8 @@ Hello! I'm a professional .NET/Unity developer with a strong background in vario
  - NewInputSystem 
  - Cinemachine
  - URP
- - TextMesh Pro  
- - UniRX
-   
+ - TextMesh Pro
+      
 ## ❤️ Tools For Soul
 These are tools that I enjoy using in my free time for personal projects and hobbie
 <div align="left">
