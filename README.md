@@ -16,6 +16,8 @@ Hello! I'm a professional .NET/Unity developer with a strong background in vario
   <img width="12" />
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/R3_Logo_512.png" height="40" alt="github logo"  />
   <img width="12" />
+  <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/Leo%20ECS.png" height="40" alt="github logo"  />
+  <img width="12" />
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/NUnitIcon.png" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/nsubstitute-100x100.png" height="40" alt="jira logo"  />
@@ -25,6 +27,8 @@ Hello! I'm a professional .NET/Unity developer with a strong background in vario
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/dotweenpro_hotweenv2.png" height="40" alt="jira logo"  /> 
   <img width="12" />
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/b7674388-9e9a-4478-ae0e-8200e377a390.png" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/fishnet.png" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://github.com/FrancheskoDown/FrancheskoDown/blob/main/640px-RenderDoc_logo.svg.png" height="40" alt="jira logo"  />
   <img width="12" />
